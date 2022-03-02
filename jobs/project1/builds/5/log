@@ -1,0 +1,23 @@
+Started by GitHub push by arshad789
+Running as SYSTEM
+Building remotely on [8mha:////4PBEDs1v1bi6Mn/2EouFyDYXtql+TUJAdq8Lw+qEasZZAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQifZBhCuWpSbqJBQUA+QK8cMsAAAA=[0mjava web-app (java) in workspace /home/jenkins/workspace/project1
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/jenkins/workspace/project1/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/arshad789/maven-web.git # timeout=10
+Fetching upstream changes from https://github.com/arshad789/maven-web.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/arshad789/maven-web.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 51eac74b02357ed8e2acc2bbc832237cca3c5e40 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 51eac74b02357ed8e2acc2bbc832237cca3c5e40 # timeout=10
+Commit message: "webhook test"
+ > git rev-list --no-walk 2ff53cc412f20a494befda657cad28c0e77cc651 # timeout=10
+[project1] $ /bin/sh -xe /tmp/jenkins12413941514380909765.sh
++ mvn clean package
+/tmp/jenkins12413941514380909765.sh: 2: mvn: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

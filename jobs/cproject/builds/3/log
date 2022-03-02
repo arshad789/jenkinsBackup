@@ -1,0 +1,19 @@
+Started by user [8mha:////4PFq1gFXDTAhe+RsdMJEEb05eBp00TQ2ld2eXmHMFGvaAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9xKLijMQUAADOcGjBAAAA[0marshad
+Running as SYSTEM
+Building remotely on [8mha:////4OVifa9ss54a3xJvTEfqECbWAAAWvwAzqmx7GumVXaGvAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/eQ8oEMBmduEfsQAAAA=[0mcnode in workspace /opt/jenkins/workspace/cproject
+The recommended git tool is: NONE
+No credentials specified
+Cloning the remote Git repository
+Cloning repository https://github.com/santhoshgithub1/c-project.git
+ > git init /opt/jenkins/workspace/cproject # timeout=10
+Fetching upstream changes from https://github.com/santhoshgithub1/c-project.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/santhoshgithub1/c-project.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/santhoshgithub1/c-project.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+ > git rev-parse origin/main^{commit} # timeout=10
+ERROR: Couldn't find any revision to build. Verify the repository and branch configuration for this job.
+Finished: FAILURE

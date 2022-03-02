@@ -1,0 +1,13 @@
+Started on Feb 27, 2022, 6:27:42 PM
+Started by event from 140.82.115.150 ⇒ http://54.234.50.41:8080/github-webhook/ on Sun Feb 27 18:27:42 UTC 2022
+Using strategy: Default
+[poll] Last Built Revision: Revision 51eac74b02357ed8e2acc2bbc832237cca3c5e40 (refs/remotes/origin/master)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git ls-remote -h -- https://github.com/arshad789/maven-web.git # timeout=10
+Found 1 remote heads on https://github.com/arshad789/maven-web.git
+[poll] Latest remote head revision on refs/heads/master is: 62c3e3f76d044cca5823597935dcb392e1f2ce72
+Done. Took 0.13 sec
+Changes found

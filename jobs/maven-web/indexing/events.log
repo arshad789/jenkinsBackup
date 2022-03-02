@@ -1,0 +1,46 @@
+[Sun Feb 27 17:39:46 UTC 2022] Received Push event to branch master in repository arshad789/maven-web UPDATED event from 140.82.115.153 ⇒ http://54.234.50.41:8080/github-webhook/ with timestamp Sun Feb 27 17:39:41 UTC 2022
+[8mha:////4IqR0ge1eqXkrGM0b7JQCrvAj+gD3Afm0c1x76+TfFbiAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHS9jUtUAQB28paHjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4MvD5T2gIQOOOzkE5VlGsXz3uU9poyTyoOCKY0zkctCHAAAAph+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQLmFQyygpKSi20tdPzyzJKE0C6srVTywqzkhMMbew1M9NLEvN0y1PTQIAn91Sn6sAAAA=[0marshad789/maven-web
+
+  Checking branches...
+
+  Getting remote branch master...
+
+    Checking branch [8mha:////4O58UHXheZ4BYGtryOQnCJJNqBRK0A0xjOINySz2Uw0LAAAAsB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgK2EwyigpKSi20tdPzyzJKE0C6srVTywqzkhMMbew1M9NLEvN0y1PTdIvKUpNBXKLS1KLAHbjP2K3AAAA[0mmaster
+
+  Getting remote pull requests from branch master...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: master (2ff53cc412f20a494befda657cad28c0e77cc651 → 51eac74b02357ed8e2acc2bbc832237cca3c5e40)
+Scheduled build for branch: master
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining arshad789/maven-web
+
+[Sun Feb 27 17:39:47 UTC 2022] Push event to branch master in repository arshad789/maven-web UPDATED event from 140.82.115.153 ⇒ http://54.234.50.41:8080/github-webhook/ with timestamp Sun Feb 27 17:39:41 UTC 2022 processed in 0.43 sec
+[Sun Feb 27 18:27:47 UTC 2022] Received Push event to branch master in repository arshad789/maven-web UPDATED event from 140.82.115.150 ⇒ http://54.234.50.41:8080/github-webhook/ with timestamp Sun Feb 27 18:27:42 UTC 2022
+[8mha:////4AlPlo3ptxmlJwtZv8WiUSDeTacb1AyCRedtcyr4ozsjAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHS9TYG/EgD2aSQWjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+Examining [8mha:////4MvD5T2gIQOOOzkE5VlGsXz3uU9poyTyoOCKY0zkctCHAAAAph+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMgQLmFQyygpKSi20tdPzyzJKE0C6srVTywqzkhMMbew1M9NLEvN0y1PTQIAn91Sn6sAAAA=[0marshad789/maven-web
+
+  Checking branches...
+
+  Getting remote branch master...
+
+    Checking branch [8mha:////4O58UHXheZ4BYGtryOQnCJJNqBRK0A0xjOINySz2Uw0LAAAAsB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgK2EwyigpKSi20tdPzyzJKE0C6srVTywqzkhMMbew1M9NLEvN0y1PTdIvKUpNBXKLS1KLAHbjP2K3AAAA[0mmaster
+
+  Getting remote pull requests from branch master...
+      ‘Jenkinsfile’ found
+    Met criteria
+Changes detected: master (51eac74b02357ed8e2acc2bbc832237cca3c5e40 → 62c3e3f76d044cca5823597935dcb392e1f2ce72)
+Scheduled build for branch: master
+
+  1 branches were processed (query completed)
+
+  1 branches were processed
+
+Finished examining arshad789/maven-web
+
+[Sun Feb 27 18:27:47 UTC 2022] Push event to branch master in repository arshad789/maven-web UPDATED event from 140.82.115.150 ⇒ http://54.234.50.41:8080/github-webhook/ with timestamp Sun Feb 27 18:27:42 UTC 2022 processed in 0.43 sec
